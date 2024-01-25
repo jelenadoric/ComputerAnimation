@@ -1,0 +1,5 @@
+# Ignore directories inside Lab3/InteractiveShader
+Lab3/InteractiveShader/Library/
+Lab3/InteractiveShader/obj/
+Lab3/InteractiveShader/UserSettings/
+Lab3/InteractiveShader/Logs/
